@@ -1,4 +1,6 @@
 # GWC-DCMB
+![logo](logo.png)
+
 A meta-repository to help navigate our repos and resources
 
 ## About us
