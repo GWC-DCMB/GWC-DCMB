@@ -1,3 +1,7 @@
+# LICENSE
+
+This file was adapted from the [Software Carpentry License file](https://github.com/swcarpentry/shell-novice/blob/gh-pages/LICENSE.md).
+
 ## Instructional Material
 
 All instructional material is
