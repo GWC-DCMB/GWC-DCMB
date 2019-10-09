@@ -1,6 +1,12 @@
 # GWC-DCMB
 A meta-repository to help navigate our repos and resources
 
+## About us
+
+Founded by current doctoral students in the Department of Computational Medicine and Bioinformatics (DCMB) at the University of Michigan, our Girls Who Code club seeks to provide a collaborative and supportive environment for high school women of all skill levels and backgrounds interested in learning how to code.
+
+Due to the research expertise of our graduate student Facilitators, our club curriculum is focused on computational data analysis and the Python programming language. Participants learn core coding concepts and implement their new skills in a data science capstone project of their choosing.
+
 ## Repositories
 
 | Repository | Description | Language(s) |
