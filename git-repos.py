@@ -139,7 +139,7 @@ class Repos:
         """
         table = [PROJECTS_HEADER]
 
-        table.append(f"\n| Repository | Description | Language(s) |\n|---|---|---|---|\n")
+        table.append(f"\n| Repository | Description | Language(s) |\n|---|---|---|\n")
         for status in self.repos:
             for repo in self.repos[status]:
                 table.append(repo.markdown)
