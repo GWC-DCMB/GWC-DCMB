@@ -14,6 +14,12 @@ A meta-repository to help navigate our repos and resources
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Coding demos for Python instruction in Girls Who Code Club | Jupyter Notebook, Python |
 | [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for GWC activities for UM FEMMES |  |
 
+## Resources
+
+- [How to contribute to our curriculum](contributing.md)
+- [How to live code]()
+- [Resources for learners](resources.md)
+
 ## License
 
 All materials hosted here are subject to the licenses described in the [LICENSE file](LICENSE.md).
