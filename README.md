@@ -1,6 +1,6 @@
 # GWC-DCMB
 
-A meta-repository to help navigate the repos and resources of [Girls Who Code at the University of Michigan Department of Computational Medicine & Bioinformatics](http://umich.edu/~girlswc/).
+A meta-repository to help navigate the repos and resources of [Girls Who Code at UM-DCMB](http://umich.edu/~girlswc/).
 
 ## Repositories
 
