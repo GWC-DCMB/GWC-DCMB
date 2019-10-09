@@ -2,13 +2,21 @@
 
 <img src="logo.png" height="300" />
 
-A meta-repository to help navigate the repos and resources of [Girls Who Code at UM-DCMB](http://umich.edu/~girlswc/).
+A meta-repository to help navigate the repos and resources of 
+[Girls Who Code at UM-DCMB](http://umich.edu/~girlswc/).
 
 ## About Us
 
-Founded by current doctoral students in the [Department of Computational Medicine and Bioinformatics (DCMB)](https://medicine.umich.edu/dept/computational-medicine-bioinformatics) at the University of Michigan, our Girls Who Code club seeks to provide a collaborative and supportive environment for high school women of all skill levels and backgrounds interested in learning how to code.
+Founded by current doctoral students in the 
+[Department of Computational Medicine and Bioinformatics (DCMB)](https://medicine.umich.edu/dept/computational-medicine-bioinformatics) 
+at the University of Michigan, our Girls Who Code club seeks to provide a 
+collaborative and supportive environment for high school women of all skill levels 
+and backgrounds interested in learning how to code.
 
-Due to the research expertise of our graduate student Facilitators, our club curriculum is focused on computational data analysis and the Python programming language. Participants learn core coding concepts and implement their new skills in a data science capstone project of their choosing.
+Due to the research expertise of our graduate student Facilitators, our club 
+curriculum is focused on computational data analysis and the Python programming 
+language. Participants learn core coding concepts and implement their new skills 
+in a data science capstone project of their choosing.
 
 ## Repositories
 
@@ -25,9 +33,16 @@ Due to the research expertise of our graduate student Facilitators, our club cur
 
 ## Get Involved
 
-Are you a UMich student, post-doc, faculty, or other member of the University of Michigan community? Join our [mailing list](https://mcommunity.umich.edu/#group:Bioinformatics%20Girls%20Who%20Code) or [send us an email](mailto:gwc.bioinfo-requests@umich.edu) to find out how you can get involved! 
+Are you a UMich student, post-doc, faculty, or other member of the 
+University of Michigan community? Join our 
+[mailing list](https://mcommunity.umich.edu/#group:Bioinformatics%20Girls%20Who%20Code) 
+or [send us an email](mailto:gwc.bioinfo-requests@umich.edu) to find out 
+how you can get involved! 
 
-Are you a high school student or younger looking to learn with us? Stay tuned to [our website](http://umich.edu/~girlswc) for announcements on our next recruiting cycle in the fall.
+Are you a high school student or younger looking to learn with us? 
+[Send us an email](mailto:gwc.bioinfo-requests@umich.edu) 
+and stay tuned to [our website](http://umich.edu/~girlswc) 
+for announcements on our next recruiting cycle.
 
 ## Resources
 
