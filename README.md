@@ -1,6 +1,6 @@
 # GWC-DCMB
 
-<img src="logo.png" height="200" />
+<img src="logo.png" height="300" />
 
 A meta-repository to help navigate our repos and resources.
 
