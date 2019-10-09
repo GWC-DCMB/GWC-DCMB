@@ -4,7 +4,7 @@ A meta-repository to help navigate our repos and resources
 ## Repositories
 
 | Repository | Description | Language(s) |
-|---|---|---|---|
+|---|---|---|
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project Information | Jupyter Notebook, HTML, Python |
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebook files of challenge questions | Jupyter Notebook, Python, Shell |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club | Jupyter Notebook, Shell, Python |
