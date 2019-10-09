@@ -14,6 +14,12 @@ A meta-repository to help navigate our repos and resources
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Coding demos for Python instruction in Girls Who Code Club | Jupyter Notebook, Python |
 | [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for GWC activities for UM FEMMES |  |
 
+## Get Involved
+
+Are you a UMich student, post-doc, faculty, or other member of the University of Michigan community? Join our [mailing list](https://mcommunity.umich.edu/#group:Bioinformatics%20Girls%20Who%20Code) or [send us an email](mailto:gwc.bioinfo-requests@umich.edu) to find out how you can get involved! 
+
+Are you a high school student or younger looking to learn with us? Stay tuned to [our website](http://umich.edu/~girlswc) for announcements on our next recruiting cycle in the fall.
+
 ## Resources
 
 - [How to contribute to our curriculum](contributing.md)
