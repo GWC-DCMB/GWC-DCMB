@@ -1,6 +1,7 @@
 # How to Contribute
 
 We use the [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) workflow to make our lives easier. This means all new lessons, practices, and edits should be made in separate branches -- not the `master` branch.
+View the issues in our repositories to see what we need. If an issue isn't assigned to anyone, we would welcome your contribution!
 
 If you have questions or run into problems at any point, contact [Kelly](mailto:sovacool@umich.edu).
 
@@ -25,10 +26,12 @@ If you haven't already:
     git config --global user.email "you@email.com"
     ```
 
-1. Clone this repo.
+1. Clone the repo you want to contribute to.
     ```
-    git clone https://github.com/GWC-DCMB/ClubCurriculum
+    git clone repo-url
     ```
+    
+    e.g. if you want to contribute to our `ClubCurriculum`, the `repo-url` would be `https://github.com/GWC-DCMB/ClubCurriculum.git`.
 
 If you need a refresher, Software Carpentry has a lesson on [Version Control with Git](http://swcarpentry.github.io/git-novice/).
 
@@ -41,10 +44,10 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
 
 ## Creating or editing
 
-1. Move to the ClubCurriculum directory on your computer.
+1. Move to the repo directory on your computer (cloned above during [git setup](#git).)
 
     ```
-    cd ClubCurriculum
+    cd repo-name
     ```
 
 1. Create a new branch for your feature.
@@ -53,6 +56,7 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
     ```
     git checkout -b new-branch-name
     ```
+    Alternatively, if you don't have write access to the repository, you'll need to [fork the repo](https://help.github.com/en/articles/fork-a-repo) instead and work on your fork.
 
 1. Make your edits.
     ```
@@ -86,10 +90,10 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
     ```
 
 1. Open a pull request [[example](https://github.com/GWC-DCMB/ClubCurriculum/pull/21)].
-    1. Open the [repo page in your web browser](https://github.com/GWC-DCMB/ClubCurriculum).
+    1. Open the repo page in your web browser (e.g. [the ClubCurriculum repo](https://github.com/GWC-DCMB/ClubCurriculum)).
     1. If you want to see what the modifications look like before opening a pull request, you can go to the document you modified and change the branch to the left of the file name. 
     1. Go to the pull requests tab and click `new pull request`.
-    1. Select your branch name to compare to master.
+    1. Select your branch name to compare to master. If you forked the repo instead of making a branch, select "compare across forks" instead.
     1. Create the pull request.
     1. Assign a reviewer.
     The reviewer will then take a look at the changes, make any edits as needed, and merge the branch into master.
@@ -145,7 +149,7 @@ The highlights:
 If you need to read in a dataset, Pandas can read https links to raw github files. Example:
 
 ```
-path = 'https://raw.githubusercontent.com/GWC-DCMB/ClubCurriculum/master/'
+path = 'https://raw.githubusercontent.com/GWC-DCMB/SummerExperience/master/'
 tips = pd.read_csv(path + 'SampleData/tips.csv')
 ```
     
