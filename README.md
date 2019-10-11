@@ -18,7 +18,7 @@ A meta-repository to help navigate the repos and resources of [Girls Who Code at
 ## Resources
 
 - [How to contribute to our curriculum](contributing.md)
-- [How to live code]()
+- [Live coding tips](live-coding-tips.md)
 - [Resources for learners](resources.md)
 
 ## License
