@@ -10,7 +10,7 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 - [Setup](#setup)
 - [Creating or editing](#creating-or-editing)
 - [Reviewing](#reviewing)
-- [Notes](#notes)
+- [Formatting Notes](#formatting-notes)
 
 ## Setup
 
@@ -134,7 +134,7 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
     
     If no more work will be done on that branch, you can delete it on Github to reduce clutter.
 
-## Notes
+## Formatting Notes
 
 ### Commit messages
 
