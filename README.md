@@ -47,7 +47,7 @@ for announcements on our next recruiting cycle.
 ## Resources
 
 - [How to contribute to our curriculum](CONTRIBUTING.md)
-- [How to live code]()
+- [Live coding tips](live-coding-tips.md)
 - [Resources for learners](resources.md)
 
 ## License
