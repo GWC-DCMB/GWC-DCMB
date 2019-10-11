@@ -47,7 +47,7 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
 ## Using Git
 ### Creating or editing lessons & practices
 
-1. Move to the repo directory on your computer (cloned above during [git setup](#git).)
+1. Move to the repo directory on your computer (cloned above during [git setup](#setup).)
 
     ```
     cd repo-name
