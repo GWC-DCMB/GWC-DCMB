@@ -18,6 +18,12 @@ curriculum is focused on computational data analysis and the Python programming
 language. Participants learn core coding concepts and implement their new skills 
 in a data science capstone project of their choosing.
 
+## Resources
+
+- [How to contribute to our curriculum](CONTRIBUTING.md)
+- [Live coding tips](live-coding-tips.md)
+- [Resources for learners](resources.md)
+
 ## Repositories
 
 | Repository | Description | Language(s) |
@@ -43,12 +49,6 @@ Are you a high school student or younger looking to learn with us?
 [Send us an email](mailto:gwc.bioinfo-requests@umich.edu) 
 and stay tuned to [our website](http://umich.edu/~girlswc) 
 for announcements on our next recruiting cycle.
-
-## Resources
-
-- [How to contribute to our curriculum](CONTRIBUTING.md)
-- [Live coding tips](live-coding-tips.md)
-- [Resources for learners](resources.md)
 
 ## License
 
