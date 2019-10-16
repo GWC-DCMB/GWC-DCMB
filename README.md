@@ -23,6 +23,7 @@ in a data science capstone project of their choosing.
 - [How to contribute to our curriculum](CONTRIBUTING.md)
 - [Live coding tips](live-coding-tips.md)
 - [Resources for learners](resources.md)
+- [Facilitator best practices](facilitator-best-practices.md)
 
 ## Repositories
 
