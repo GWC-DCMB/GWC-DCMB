@@ -18,12 +18,15 @@ curriculum is focused on computational data analysis and the Python programming
 language. Participants learn core coding concepts and implement their new skills 
 in a data science capstone project of their choosing.
 
-## Resources
+## Resources for contributors, instructors, & facilitators
 
 - [How to contribute to our curriculum](CONTRIBUTING.md)
 - [Live coding tips](live-coding-tips.md)
-- [Resources for learners](resources.md)
 - [Facilitator best practices](facilitator-best-practices.md)
+
+## Resources for learners
+- [Troubleshooting checklist](troubleshooting-checklist.md)
+- [Resources for learners](resources.md)
 
 ## Repositories
 
