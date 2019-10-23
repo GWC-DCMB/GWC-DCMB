@@ -18,7 +18,8 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 	- [Reviewing lessons & practices](#reviewing-lessons-practices)
 - [Guidelines](#guidelines)
 	- [Commit messages](#commit-messages)
-	- [File paths](#file-paths)
+	- [File naming scheme](#file-naming-scheme)
+	- [File paths](#dataset-file-paths)
 	- [Cell output](#cell-output)
 	- [JupyterLab](#jupyterlab)
 
@@ -163,7 +164,25 @@ The highlights:
 - The first word should be a verb in the imperative tense.
 - Keep the message short but descriptive of the changes.
 
-### File paths
+### File naming scheme
+
+Every lesson module has 4 corresponding files; the lesson, practice, and keys for each. 
+If you edit one file, you'll likely need to edit the other files too.
+Our directory structure is as follows:
+```
+.
+├── Lessons
+│   ├── Lesson99_Topic-Description.ipynb
+│   └── _Keys
+│       └── KEY_Lesson99_Topic-Description.ipynb
+└── Practices
+    ├── Practice99_Topic-Description.ipynb
+    └── _Keys
+        └── KEY_Practice99_Topic-Description.ipynb
+```
+Be sure the filenames follow this pattern!
+
+### Dataset File paths
 
 If you need to read in a dataset, Pandas can read https links to raw github files. Example:
 
