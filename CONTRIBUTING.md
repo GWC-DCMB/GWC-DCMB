@@ -22,6 +22,7 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 	- [File paths](#dataset-file-paths)
 	- [Cell output](#cell-output)
 	- [JupyterLab](#jupyterlab)
+	- [Accessibility](#Accessibility)
 
 <!-- /TOC -->
 ## Setup
@@ -166,7 +167,7 @@ The highlights:
 
 ### File naming scheme
 
-Every lesson module has 4 corresponding files; the lesson, practice, and keys for each. 
+Every lesson module has 4 corresponding files; the lesson, practice, and keys for each.
 If you edit one file, you'll likely need to edit the other files too.
 Our directory structure is as follows:
 ```
@@ -241,3 +242,6 @@ However, when you open a Jupyter notebook with Google Colab, it squishes all of 
 
 This makes it difficult to compare & merge Jupyter notebooks written in JupyterLab vs Colab via `git diff`.
 To keep our notebooks easy to compare & merge, we strongly prefer JupyterLab for editing.
+
+### Accesibility
+something will go here
