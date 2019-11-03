@@ -257,11 +257,11 @@ This is a set of guidelines for keeping lessons accessible, particularly for stu
 1. Use a title "Recap" where you're recapping what happened in an old lesson. Then, when you're changing gears to cover new stuff, start a new cell with a header "Today's Lesson"
 
 1. Use bullets whenever and wherever possible, such as
-	  1. when recapping previous information
-		1. when listing types of information
-		1. when there are multiple uses or possibilities for a function/command
-		1. when we can expect multiple outcomes from a certain function/command
-		1. Basically, whenever you're going to use "and" or "or" in a sentence, see if it can be replaced with bullet points.
+	1. when recapping previous information
+	1. when listing types of information
+	1. when there are multiple uses or possibilities for a function/command
+	1. when we can expect multiple outcomes from a certain function/command
+	1. Basically, whenever you're going to use "and" or "or" in a sentence, see if it can be replaced with bullet points.
 
 1. Bold important information the first time it is introduced
 
