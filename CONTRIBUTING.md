@@ -250,3 +250,19 @@ This is a set of guidelines for keeping lessons accessible, particularly for stu
 1. **Working Memory** - this is one common impairment that affects people with multiple mental illnesses/learning disabilities (ADHD, Autism, Dyslexia, etc). 'working memory' refers to the ability to remember and use relevant information while in the process of completing a task. For example, when working on a multi-step math problem, it is your working memory which allows you to remember what happened in the previous step while you complete the current one. Thus, **the easier we can make it for students to remember earlier portions of an assignment while completing later ones, the more accessible the assignments will be.**
 
 1. **Vision** - A lot of people with learning disabilities also have pretty bad vision, and need strong glasses or contacts. Often this makes it hard to simply see the words on a page, and to distinguish them from one another. To an outsider, this can seem like an inability to read. But **if we can make important words seem more visually/spatially distinct, neurodiverse students may be better able to comprehend them.** This can be done by using bullet points, or selectively bolding/coloring certain important words.
+
+
+### Lesson Guidelines for Accessibility
+
+1. Use a title "Recap" where you're recapping what happened in an old lesson. Then, when you're changing gears to cover new stuff, start a new cell with a header "Today's Lesson"
+
+1. Use bullets whenever and wherever possible, such as
+	  1. when recapping previous information
+		1. when listing types of information
+		1. when there are multiple uses or possibilities for a function/command
+		1. when we can expect multiple outcomes from a certain function/command
+		1. Basically, whenever you're going to use "and" or "or" in a sentence, see if it can be replaced with bullet points.
+
+1. Bold important information the first time it is introduced
+
+1. In the text of a markdown cell, bold the action items that students are expected to complete. For example, if a sentence reads "Lets say we want to update the value of the variable apples to reflect the new apples I've just purchased," it is easier to understand with the following bold: "Lets say we want to **update the value of the variable apples** to reflect the new apples I've just purchased."
