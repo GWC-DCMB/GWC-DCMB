@@ -249,8 +249,9 @@ This is a set of guidelines for keeping lessons accessible, particularly for stu
 ### Things to keep in mind
 1. **Working Memory** - this is one common impairment that affects people with multiple mental illnesses/learning disabilities (ADHD, Autism, Dyslexia, etc). 'working memory' refers to the ability to remember and use relevant information while in the process of completing a task. For example, when working on a multi-step math problem, it is your working memory which allows you to remember what happened in the previous step while you complete the current one. Thus, **the easier we can make it for students to remember earlier portions of an assignment while completing later ones, the more accessible the assignments will be.**
 
-1. **Vision** - A lot of people with learning disabilities also have pretty bad vision, and need strong glasses or contacts. Often this makes it hard to simply see the words on a page, and to distinguish them from one another. To an outsider, this can seem like an inability to read. But **if we can make important words seem more visually/spatially distinct, neurodiverse students may be better able to comprehend them.** This can be done by using bullet points, or selectively bolding/coloring certain important words.
+1. **Vision** - A lot of people with learning disabilities also have pretty bad vision, and need strong glasses or contacts. Often this makes it hard to simply see the words on a page, and to distinguish them from one another. To an outsider, this can seem like an inability to read. But **if we can make important words and sections seem more visually/spatially distinct, neurodiverse students may be better able to comprehend them.** This can be done by using bullet points, or selectively bolding/coloring certain important words.
 
+These two things are mainly what I (Katie) had in mind when developing the following ways to make lessons more accessible.
 
 ### Lesson Guidelines for Accessibility
 
@@ -275,4 +276,4 @@ This is a set of guidelines for keeping lessons accessible, particularly for stu
 
 1. Try to explain new concepts in **multiple ways** if you can.
 
-1. Finally, if you find that there's a section you're not bolding anything in, or you're not putting any bullet points, this might mean that not much of this section is important. **If a section is expendable, take it out.** Big walls of text are extremely difficult for neurodivergent people, and we should try to minimize them if possible. 
+1. Finally, if you find that there's a section you're not bolding anything in, or you're not putting any bullet points, this might mean that not much of this section is important. **If a section is expendable, take it out.** Big walls of text are extremely difficult for neurodivergent people, and we should try to minimize them if possible.
