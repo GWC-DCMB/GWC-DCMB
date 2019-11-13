@@ -22,7 +22,7 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 	- [File paths](#dataset-file-paths)
 	- [Cell output](#cell-output)
 	- [JupyterLab](#jupyterlab)
-	- [Accessibility](#Accessibility)
+	- [Accessibility](#lesson-guidelines-for-accessibility)
 
 <!-- /TOC -->
 ## Setup
@@ -270,7 +270,7 @@ These two things are mainly what I (Katie) had in mind when developing the follo
 
 1. If we could develop a consistent **color scheme,** that might be really helpful. (Ex: action items in one color, questions in another color, explanations of reasoning in yet another color)
 
-1. **Don't assume previous knowledge.** Generally, the lessons do a pretty good job at this so far, but saying something like "you may be familiar with the term integer from your math class" makes students who haven't heard of it, or cant remember if they've heard of it or not, feel worse.
+1. **Don't assume previous knowledge.** Generally, the lessons do a pretty good job at this so far, but saying something like "you may be familiar with the term integer from your math class" makes students who haven't heard of it, or can't remember if they've heard of it or not, feel worse.
 
 1. **Be extremely consistent in terminology.** If you introduce the term "data type," try to use that term throughout, rather than abbreviating to "type" in subsequent explanations.
 
