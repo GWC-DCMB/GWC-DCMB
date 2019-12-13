@@ -100,9 +100,9 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
     git push origin new-branch-name
     ```
 
-        If you forget the branch name:
-        - Run `git status` to see the branch you currently have checked out (among other things).
-        - You can list existing branches with `git branch --list`.
+    If you forget the branch name:
+    - Run `git status` to see the branch you currently have checked out (among other things).
+    - You can list existing branches with `git branch --list`.
 
 
 1. Open a pull request [[example](https://github.com/GWC-DCMB/ClubCurriculum/pull/21)].
