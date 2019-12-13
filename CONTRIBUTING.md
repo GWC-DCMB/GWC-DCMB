@@ -1,6 +1,6 @@
 # How to Contribute
 
-We use the [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) workflow to make our lives
+We use the [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) workflow to make our lives
 easier. This means all new lessons, practices, and edits should be made in separate branches -- not the `master` branch.
 View the issues in our repositories to see what we need.
 If an issue isn't assigned to anyone, we would welcome your contribution!
@@ -100,10 +100,14 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
     git push origin new-branch-name
     ```
 
-    If you forget the branch name, you can list existing branches using the command:
-    ```
-    git branch --list
-    ```
+    If you forget the branch name:
+        Run `git status` to see the branch you currently have checked out (among other things):
+        ```
+        git status
+        ```
+        You can list existing branches using the command:
+        ```
+        git branch --list
 
 1. Open a pull request [[example](https://github.com/GWC-DCMB/ClubCurriculum/pull/21)].
     1. Open the repo page in your web browser (e.g. [the ClubCurriculum repo](https://github.com/GWC-DCMB/ClubCurriculum)).
@@ -166,7 +170,7 @@ The highlights:
 
 ### File naming scheme
 
-Every lesson module has 4 corresponding files; the lesson, practice, and keys for each. 
+Every lesson module has 4 corresponding files; the lesson, practice, and keys for each.
 If you edit one file, you'll likely need to edit the other files too.
 Our directory structure is as follows:
 ```
