@@ -108,6 +108,7 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
         You can list existing branches using the command:
         ```
         git branch --list
+        ```
 
 1. Open a pull request [[example](https://github.com/GWC-DCMB/ClubCurriculum/pull/21)].
     1. Open the repo page in your web browser (e.g. [the ClubCurriculum repo](https://github.com/GWC-DCMB/ClubCurriculum)).
