@@ -21,7 +21,7 @@ in a data science capstone project of their choosing.
 ## Resources for contributors, instructors, & facilitators
 
 - [How to contribute to our curriculum](CONTRIBUTING.md)
-- [Lesson guidelines for accessibility](writing-accessible-lessons.md))
+- [Lesson guidelines for accessibility](writing-accessible-lessons.md)
 - [Live coding tips](live-coding-tips.md)
 - [Facilitator best practices](facilitator-best-practices.md)
 
