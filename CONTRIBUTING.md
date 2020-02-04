@@ -107,6 +107,14 @@ You're welcome to use your package manager of choice (Kelly's recommendation: [c
 
 
 1. Open a pull request [[example](https://github.com/GWC-DCMB/ClubCurriculum/pull/21)].
+    1. If you made multiple commits over a period of time, chances are high that your branch is behind the master branch. Follow these instructions to bring your local branch up to date with master:
+        ```
+        git checkout master
+        git pull
+        git checkout new-branch-name
+        git merge master
+        git push
+        ```
     1. Open the repo page in your web browser (e.g. [the ClubCurriculum repo](https://github.com/GWC-DCMB/ClubCurriculum)).
     1. If you want to see what the modifications look like before opening a pull request, you can go to the document you
     modified and change the branch to the left of the file name.
