@@ -30,7 +30,7 @@ in a data science capstone project of their choosing.
 | [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | HTML |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & other materials for our week-long Data Science Summer Experience. | Jupyter Notebook, Shell, Python |
 
-**Additional Resources**
+### Additional Resources
 
 - For contributors, instructors, & facilitators
     - [How to contribute to our curriculum](CONTRIBUTING.md)
