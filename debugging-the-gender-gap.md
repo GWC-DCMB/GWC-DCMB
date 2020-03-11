@@ -16,8 +16,8 @@
 
 ## Resources for learners
 * Girls Who Code at UM DCMB
-- Challenge Questions https://github.com/GWC-DCMB/challengeQuestions
-- Open Source Curriculum https://github.com/GWC-DCMB/ClubCurriculum
+  - Challenge Questions https://github.com/GWC-DCMB/challengeQuestions
+  - Open Source Curriculum https://github.com/GWC-DCMB/ClubCurriculum
 * Rosalind http://rosalind.info/problems/locations/
 * CodeFights https://codefights.com
 * CodeWars https://www.codewars.com
