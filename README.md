@@ -39,7 +39,7 @@ in a data science capstone project of their choosing.
     - [Facilitator best practices](facilitator-best-practices.md)
 - For learners
     - [Troubleshooting checklist](troubleshooting-checklist.md)
-    - [Resources for learners](resources.md)
+    - [Resources for learners](learning-resources.md)
 - For everyone
     - [Debugging the Gender Gap](debugging-the-gender-gap.md)
 

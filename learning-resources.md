@@ -1,4 +1,4 @@
-# Additional Resources
+# Additional Learning Resources
 
 ## Online learning
 
