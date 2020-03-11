@@ -19,6 +19,18 @@ language. Participants learn core coding concepts and implement their new skills
 in a data science capstone project of their choosing.
 
 ## Resources
+| Repository | Description | Language(s) |
+|---|---|---|
+| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | Jupyter Notebook, HTML, Python |
+| [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | Jupyter Notebook, Python, Shell |
+| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | Jupyter Notebook, Shell, Python |
+| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | Jupyter Notebook, Python |
+| [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for activities for U-M FEMMES. |  |
+| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate our repos and resources. | Python, Shell |
+| [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | HTML |
+| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & other materials for our week-long Data Science Summer Experience. | Jupyter Notebook, Shell, Python |
+
+**Additional Resources**
 
 - For contributors, instructors, & facilitators
     - [How to contribute to our curriculum](CONTRIBUTING.md)
@@ -31,16 +43,6 @@ in a data science capstone project of their choosing.
 - For everyone
     - [Debugging the Gender Gap](debugging-the-gender-gap.md)
 
-| Repository | Description | Language(s) |
-|---|---|---|
-| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | Jupyter Notebook, HTML, Python |
-| [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | Jupyter Notebook, Python, Shell |
-| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | Jupyter Notebook, Shell, Python |
-| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | Jupyter Notebook, Python |
-| [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for activities for U-M FEMMES. |  |
-| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate our repos and resources. | Python, Shell |
-| [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | HTML |
-| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & other materials for our week-long Data Science Summer Experience. | Jupyter Notebook, Shell, Python |
 
 ## Get Involved
 
