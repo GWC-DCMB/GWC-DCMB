@@ -4,6 +4,7 @@ Check that all Lessons have matching Practices & Keys
 Usage:
     python check_filepaths.py
 """
+import itertools
 import os
 
 
@@ -18,19 +19,26 @@ def main():
         is_correct_lesson = True
         if not lesson_file.startswith("Lessons/Lesson"):
             raise ValueError(
-                f"🚫 Lesson filename {lesson_file} doesn't start with 'Lesson'."
+                f"🚫 Error: Lesson filename `{lesson_file}` doesn't start with 'Lesson'."
             )
         suffix = lesson_file.strip("Lessons/Lesson")
         for prefix, files in file_map.items():
             expected_file = f"{prefix}{suffix}"
             if expected_file not in files:
                 is_correct_lesson = False
-                print(f"❓ Expected {expected_file} but file not found.")
+                print(f"🚫 Error: Expected `{expected_file}` but file not found.")
+            else:
+                files.discard(expected_file)
         if is_correct_lesson:
-            print(f"✅ Lesson file {lesson_file} has corresponding practices & keys.")
+            print(f"✅ {lesson_file}")
         else:
             is_correct_all = False
 
+    unmatched_files = sorted(itertools.chain.from_iterable(file_map.values()))
+    if unmatched_files:
+        print("⚠️  Warning: detected files without matching lessons:")
+        for file in unmatched_files:
+            print("    ", file)
     if is_correct_all:
         print("🙌🏻 All lesson notebooks have corresponding practices & keys!")
     else:
