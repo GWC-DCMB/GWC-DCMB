@@ -14,7 +14,7 @@
 * Ann Arbor R User Group https://www.meetup.com/Ann-Arbor-R-User-Group/
 * Michigan Council of Women in Technology https://mcwt.org
 
-## Resources for coding experience 
+## Resources for learners
 * Girls Who Code at UM DCMB
 - Challenge Questions https://github.com/GWC-DCMB/challengeQuestions
 - Open Source Curriculum https://github.com/GWC-DCMB/ClubCurriculum
