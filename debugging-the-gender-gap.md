@@ -1,6 +1,6 @@
 # CODE: Debugging the Gender Gap
 **Michigan Theater Independent Thinker Film Series**  
-**Ideas from Brooke Wolford, Dr. Tawanna Dillahunt, Tatiana Duggan, Lisa Flohr, Becky Reamy**  
+**Ideas from [Dr. Tawanna Dillahunt](https://www.si.umich.edu/people/tawanna-dillahunt), [Tatiana Duggan](https://www.linkedin.com/in/tatiana-woods-duggan/), [Lisa Flohr](https://www.greenhillsschool.org/about/directory/), [Becky Reamy](https://www.linkedin.com/in/rebeccareamy/), [Brooke Wolford](http://www.brookewolford.com)**  
 
 ## Resources for parent/guardians & their students
 * Black Girls Code http://www.blackgirlscode.com/programsevents.html
