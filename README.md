@@ -18,18 +18,18 @@ curriculum is focused on computational data analysis and the Python programming
 language. Participants learn core coding concepts and implement their new skills
 in a data science capstone project of their choosing.
 
-## Resources for contributors, instructors, & facilitators
+## Resources
 
-- [How to contribute to our curriculum](CONTRIBUTING.md)
-- [Lesson guidelines for accessibility](writing-accessible-lessons.md)
-- [Live coding tips](live-coding-tips.md)
-- [Facilitator best practices](facilitator-best-practices.md)
-
-## Resources for learners
-- [Troubleshooting checklist](troubleshooting-checklist.md)
-- [Resources for learners](resources.md)
-
-## Repositories
+- For contributors, instructors, & facilitators
+    - [How to contribute to our curriculum](CONTRIBUTING.md)
+    - [Lesson guidelines for accessibility](writing-accessible-lessons.md)
+    - [Live coding tips](live-coding-tips.md)
+    - [Facilitator best practices](facilitator-best-practices.md)
+- For learners
+    - [Troubleshooting checklist](troubleshooting-checklist.md)
+    - [Resources for learners](resources.md)
+- For everyone
+    - [Debugging the Gender Gap](debugging-the-gender-gap.md)
 
 | Repository | Description | Language(s) |
 |---|---|---|
