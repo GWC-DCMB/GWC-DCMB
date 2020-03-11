@@ -42,9 +42,9 @@
 
 ## Call to Action
 
-1. Parents/guardians, remind your children or colleagues that the feelings from imposter syndrome affect almost everyone, and it doesn’t mean you don’t belong.
-2. Parents/guardians, particularly men who are role models and father figures, encourage girls to do absolutely anything they want in their careers.
-3. Everyone, advocate for earlier and better computer science education in schools, particularly computational thinking classes!
-4. Everyone, find a community where you can network, mentor or receive mentorship, learn from others, and feel less isolated.
-5. Educators, focus on early computer science educational opportunities that produce ‘easy wins’ and build confidence.
-6. An adult interested in coding, it’s not too late! Identify the ways computer science is embedded in your field of interest and pursue them.
+1. Parents/guardians, **remind** your children or colleagues that the feelings from imposter syndrome affect almost everyone, and it doesn’t mean you don’t belong.
+2. Parents/guardians, particularly men who are role models and father figures, **encourage** girls that they can be absolutely anything they want and to pursue their interests.
+3. Everyone, **advocate** for earlier and better computer science education in schools, particularly computational thinking classes!
+4. Everyone, **find** a community where you can network, mentor or receive mentorship, learn from others, and feel less isolated.
+5. Educators, **focus** on early computer science educational opportunities that produce ‘easy wins’ and build confidence.
+6. An adult interested in coding, it’s not too late! **Identify** the ways computer science is embedded in your field of interest and pursue them.
