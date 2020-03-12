@@ -80,7 +80,7 @@ Remember: Methods are functions but functions are not always methods
 
 ## Attributes
 
-df.values
-df.columns
+df.values  
+df.columns  
 
 Documentation: https://www.python.org/doc/
