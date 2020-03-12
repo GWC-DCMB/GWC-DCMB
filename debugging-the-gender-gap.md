@@ -7,6 +7,12 @@
 * Girls Who Code https://girlswhocode.com
 * UM Youth Hub https://youthhub.umich.edu/hub
 * K-12 summer camps https://www.wise.umich.edu/k-12-students-families/summer-camps.html
+* Kode with Klossy https://www.kodewithklossy.com
+* First Robotics https://www.firstinspires.org/robotics/frc
+
+## Resources for educators
+* REACT https://macro.engin.umich.edu/react-workshop/
+* Ginsberg Center https://ginsberg.umich.edu 
 
 ## Resources for those seeking community
 * Girl Develop It Ann Arbor Meet Up https://www.meetup.com/Girl-Develop-It-Ann-Arbor/
@@ -15,6 +21,7 @@
 * Michigan Council of Women in Technology https://mcwt.org
 
 ## Resources for learners
+
 * Girls Who Code at UM DCMB
   - Challenge Questions https://github.com/GWC-DCMB/challengeQuestions
   - Open Source Curriculum https://github.com/GWC-DCMB/ClubCurriculum
@@ -35,7 +42,11 @@
 * Python exercises https://github.com/zhiwehu/Python-programming-exercises
 * Learn R, in R https://swirlstats.com
 * Coursera https://www.coursera.org/specializations/statistics-with-python
-* Kode with Klossy https://www.kodewithklossy.com
+* Ozobot https://ozobot.com and [GWC at UM DCMB Activities](https://github.com/GWC-DCMB/ozobotLessons)
+* Blockly https://developers.google.com/blockly
+* Scratch https://scratch.mit.edu
+* Kodable https://www.kodable.com
+* Coding Critters https://www.learningresources.com/coding-critters-your-first-coding-friends
 
 ## Resources for confidence/empowerment 
 * Amy Cuddy’s Power Poses https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=en (Article: Cuddy, A. J., Wilmuth, C. A., & Carney, D. R. (2012). The benefit of power posing before a high-stakes social evaluation. Harvard Business School working paper series# 13-027.)
