@@ -41,6 +41,7 @@ in a data science capstone project of their choosing.
     - [Troubleshooting checklist](troubleshooting-checklist.md)
     - [Functions, Methods, Packages](functions_methods_packages.md)
     - [Resources for learners](learning-resources.md)
+    - [Get started](get-started.md)
 - For everyone
     - [Debugging the Gender Gap](debugging-the-gender-gap.md)
 
