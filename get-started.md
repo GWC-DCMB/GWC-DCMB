@@ -5,5 +5,5 @@ Every topic has a [lesson](https://github.com/GWC-DCMB/ClubCurriculum/tree/maste
 - [Lesson keys](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Lessons/_Keys/pdf)
 - [Practice keys](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Practices/_Keys/pdf)
 
-We encourage lots of googling and here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck!
+We encourage lots of googling and here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck! Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel.
 We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestions/tree/master/questions) for extensions of certain topics. You can navigate to these via Google Colab as well following the instructions in the first lesson (above).
