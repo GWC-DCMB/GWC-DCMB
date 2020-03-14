@@ -2,7 +2,7 @@
 
 What you need:
 - A computer with an internet browser (we know Chrome works well)  
-- Internet Access  
+- Internet access  
 -  Each learner will need a [Google Account](https://support.google.com/accounts/answer/27441?hl=en) to save edited notebooks into their own Google Drive.  
 
 You can access all our resources [here](https://github.com/GWC-DCMB/GWC-DCMB). 
