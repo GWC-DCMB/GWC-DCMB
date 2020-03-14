@@ -13,6 +13,7 @@
 ## Resources for educators
 * REACT https://macro.engin.umich.edu/react-workshop/
 * Ginsberg Center https://ginsberg.umich.edu 
+* CS for All https://www.csforall.org
 
 ## Resources for those seeking community
 * Girl Develop It Ann Arbor Meet Up https://www.meetup.com/Girl-Develop-It-Ann-Arbor/
