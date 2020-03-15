@@ -20,7 +20,10 @@ We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestion
 1. We encourage lots of googling—-resources like [Stack Overflow](https://stackoverflow.com) are particularly useful.  
 2. Here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck.  
 3. Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel. Our volunteers will answer as they are able.  
+4. You may want to start with something like Code Academy to learn some programming basics. [Python 2](https://www.codecademy.com/learn/learn-python) content is free, but [Python 3](https://www.codecademy.com/learn/learn-python-3) is not. Then jump into our curriculum which teaches Python 3 and data science specific skills. Python 3 is just an updated version of Python 2.
 
-
-
+### Extensions
+We have compiled many [learning resources](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/learning-resources.md), but we would like to highlight a few of our favorites
+- [Code Academy](https://www.codecademy.com) 
+- [Teach yourself R](https://github.com/zenalapp/teach-yourself-r/wiki) by Maya and Zena Lapp
 
