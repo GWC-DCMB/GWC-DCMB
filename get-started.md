@@ -15,6 +15,7 @@ Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurricu
 
 Tips for self-instruction with our curriculum:
 1. We encourage lots of googling—-resources like [Stack Overflow](https://stackoverflow.com) are particularly useful.  
-2. Here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck!    3. Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel. Our volunteers will answer as they are able.  
+2. Here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck!      3. Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel. Our volunteers will answer as they are able.  
 
 We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestions/tree/master/questions) for extensions of certain topics. You can navigate to these via Google Colab by following the instructions in the first lesson (above). You can navgiate  to all of our organization's resources from [here](https://github.com/GWC-DCMB/GWC-DCMB). 
+
