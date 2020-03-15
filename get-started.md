@@ -18,7 +18,9 @@ We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestion
 
 ## Tips for self-instruction
 1. We encourage lots of googling—-resources like [Stack Overflow](https://stackoverflow.com) are particularly useful.  
-2. Here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck!      3. Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel. Our volunteers will answer as they are able.  
+2. Here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck.  
+3. Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel. Our volunteers will answer as they are able.  
+
 
 
 
