@@ -9,7 +9,7 @@ Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurricu
 
 **Start** with the [first lesson](https://github.com/GWC-DCMB/ClubCurriculum/blob/master/Lessons/Lesson01_Jupyter-Setup.md) which explains how to use [Google Colab](https://colab.research.google.com) to load the [Jupyter notebooks](https://jupyter.org) which contain the lessons and practices.
 
- The PDF version of the answer keys are in the directories so you can find the answer if you get stuck, but here are links: 
+ The **answer keys** are in the lesson and practice directories so you can find the answer if you get stuck, but here are direct links to the PDFs: 
 - [Lesson keys](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Lessons/_Keys/pdf)
 - [Practice keys](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Practices/_Keys/pdf)
 
