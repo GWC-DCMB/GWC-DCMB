@@ -5,7 +5,7 @@ What you need:
 - Internet access  
 -  Each learner will need a [Google Account](https://support.google.com/accounts/answer/27441?hl=en) to save edited notebooks into their own Google Drive.  
 
-Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurriculum) has 29 topics. Every topic has a [lesson](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Lessons) and a [practice](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Practices).  
+Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurriculum) has 29 topics. Every topic has a [lesson](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Lessons) and a [practice](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Practices). The content is written for learners ages 14-18 learners but could be useful for young or older learners as well.
 
 **Start** with the [first lesson](https://github.com/GWC-DCMB/ClubCurriculum/blob/master/Lessons/Lesson01_Jupyter-Setup.md) which explains how to use [Google Colab](https://colab.research.google.com) to load the [Jupyter notebooks](https://jupyter.org) which contain the lessons and practices.
 
