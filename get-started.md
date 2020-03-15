@@ -1,11 +1,11 @@
 # Welcome learner!
 
-## What you need
+### What you need
 - A computer with an internet browser (we know Chrome works well)  
 - Internet access  
 -  Each learner will need a [Google Account](https://support.google.com/accounts/answer/27441?hl=en) to save edited notebooks into their own Google Drive.  
 
-## Accessing the curriculum
+### Accessing the curriculum
 Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurriculum) has 29 topics. Every topic has a [lesson](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Lessons) and a [practice](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Practices). Both lessons and practices are designed to take 15-30 minutes each. The content is written for learners ages 14-18, but could be useful for younger or older learners as well.
 
 **Start** with the [first lesson](https://github.com/GWC-DCMB/ClubCurriculum/blob/master/Lessons/Lesson01_Jupyter-Setup.md) which explains how to use [Google Colab](https://colab.research.google.com) to load the [Jupyter notebooks](https://jupyter.org) which contain the lessons and practices.
@@ -16,7 +16,7 @@ Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurricu
 
 We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestions/tree/master/questions) for extensions of certain topics. You can navigate to these via Google Colab by following the instructions in the [first lesson](https://github.com/GWC-DCMB/ClubCurriculum/blob/master/Lessons/Lesson01_Jupyter-Setup.md). You can navgiate  to all of our organization's resources from [here](https://github.com/GWC-DCMB/GWC-DCMB). 
 
-## Tips for self-instruction
+### Tips for self-instruction
 1. We encourage lots of googling—-resources like [Stack Overflow](https://stackoverflow.com) are particularly useful.  
 2. Here is a [guide](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/troubleshooting-checklist.md) for what to do when stuck.  
 3. Join our [Slack workspace](https://join.slack.com/t/dcmbgirlswhocode/shared_invite/zt-cl70c3pu-l61UdX4p~NwFtu0fMRim2g) and ask questions in the #officehours channel. Our volunteers will answer as they are able.  
