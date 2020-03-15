@@ -14,7 +14,7 @@ Our Python for Data Science [curriculum](https://github.com/GWC-DCMB/ClubCurricu
 - [Lesson keys](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Lessons/_Keys/pdf)
 - [Practice keys](https://github.com/GWC-DCMB/ClubCurriculum/tree/master/Practices/_Keys/pdf)
 
-We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestions/tree/master/questions) for extensions of certain topics. You can navigate to these via Google Colab by following the instructions in the first lesson (above). You can navgiate  to all of our organization's resources from [here](https://github.com/GWC-DCMB/GWC-DCMB). 
+We also have [challenge questions](https://github.com/GWC-DCMB/challengeQuestions/tree/master/questions) for extensions of certain topics. You can navigate to these via Google Colab by following the instructions in the [first lesson](https://github.com/GWC-DCMB/ClubCurriculum/blob/master/Lessons/Lesson01_Jupyter-Setup.md). You can navgiate  to all of our organization's resources from [here](https://github.com/GWC-DCMB/GWC-DCMB). 
 
 ## Tips for self-instruction
 1. We encourage lots of googling—-resources like [Stack Overflow](https://stackoverflow.com) are particularly useful.  
