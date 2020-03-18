@@ -9,6 +9,7 @@
 * K-12 summer camps https://www.wise.umich.edu/k-12-students-families/summer-camps.html
 * Kode with Klossy https://www.kodewithklossy.com
 * First Robotics https://www.firstinspires.org/robotics/frc
+* Brave Initiatives https://www.braveinitiatives.com
 
 ## Resources for educators
 * REACT https://macro.engin.umich.edu/react-workshop/
