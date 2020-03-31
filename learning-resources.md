@@ -2,7 +2,7 @@
 
 ## Online learning
 
-- National Girls Who Code [Code from Home](https://girlswhocode.com/code-at-home/)
+- [National Girls Who Code Code from Home](https://girlswhocode.com/code-at-home/)
 - [Khan Academy](https://alison.com/course/introduction-to-programming-with-python): Introduction to Programming with Python
 - [LearnPython](https://www.learnpython.org/): Interactive Python tutorials
 - [Project Rosalind](http://rosalind.info/problems/locations/): Introductory Python programming and bioinformatics problems
