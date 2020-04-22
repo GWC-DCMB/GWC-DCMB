@@ -24,6 +24,7 @@
 - [Code Abbey](http://www.codeabbey.com/)
 - [Codesters](https://www.codesters.com/)
 - [Girls Who Code at UM DCMB Challenge Questions](https://github.com/GWC-DCMB/challengeQuestions)
+- [Harvard CS50x](https://cs50.harvard.edu/x/2020/)
 
 ## Other events
 
