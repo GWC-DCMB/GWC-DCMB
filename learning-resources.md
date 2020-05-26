@@ -2,6 +2,7 @@
 
 ## Online learning
 
+- [National Girls Who Code Code from Home](https://girlswhocode.com/code-at-home/)
 - [Khan Academy](https://alison.com/course/introduction-to-programming-with-python): Introduction to Programming with Python
 - [LearnPython](https://www.learnpython.org/): Interactive Python tutorials
 - [Project Rosalind](http://rosalind.info/problems/locations/): Introductory Python programming and bioinformatics problems
@@ -23,6 +24,7 @@
 - [Code Abbey](http://www.codeabbey.com/)
 - [Codesters](https://www.codesters.com/)
 - [Girls Who Code at UM DCMB Challenge Questions](https://github.com/GWC-DCMB/challengeQuestions)
+- [Harvard CS50x](https://cs50.harvard.edu/x/2020/)
 
 ## Other events
 
