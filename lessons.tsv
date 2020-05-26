@@ -1,0 +1,27 @@
+Lesson01_Jupyter-Setup.md	Lesson01_Setup.md
+Lesson02_HelloWorld_Variables.ipynb	Lesson02_HelloWorld_Variables.ipynb
+Lesson03_Variables_Types.ipynb	Lesson03_Variables_Types.ipynb
+Lesson04_Lists_Intro.ipynb	Lesson04_Lists_Intro.ipynb
+Lesson05_Indexing.ipynb	Lesson05_Indexing.ipynb
+Lesson06_2D_Lists_Intro.ipynb	
+Lesson07_2D_Lists_Indexing.ipynb	
+Lesson08_Logic.ipynb	Lesson06_Logic.ipynb
+Lesson09_Conditionals.ipynb	Lesson07_Conditionals.ipynb
+Lesson10_Loops1.ipynb	
+Lesson11_Loops2.ipynb	
+Lesson12_Functions_and_Methods.ipynb	Lesson08_Functions_and_Methods.ipynb
+Lesson13_Packages.ipynb	Lesson09_Packages.ipynb
+Lesson14_Pandas-Intro.ipynb	Lesson10_Pandas-Intro.ipynb
+Lesson15_Pandas-Reading.ipynb	Lesson11_Pandas-Reading.ipynb
+Lesson16_Pandas-Subsetting-I.ipynb	Lesson12_Pandas-Subsetting-I.ipynb
+Lesson17_Pandas-Subsetting-II.ipynb	Lesson13_Pandas-Subsetting-II.ipynb
+Lesson18_Dictionaries.ipynb	
+Lesson19_Functions.ipynb	
+Lesson20_Numpy_Intro.ipynb	Lesson14_Numpy_Intro.ipynb
+Lesson21_Basic_Stats_I_Averages.ipynb	Lesson15_Basic_Stats_I_Averages.ipynb
+Lesson22_Basic_Stats_II_Percents.ipynb	Lesson16_Basic_Stats_II_Percents.ipynb
+Lesson23_Basic_Stats_III_Correlations.ipynb	Lesson17_Basic_Stats_III_Correlations.ipynb
+Lesson24_Basic_Stats_IV_Significance.ipynb	
+Lesson25_LineGraphs.ipynb	Lesson18_LineGraphs.ipynb
+Lesson26_Scatterplots.ipynb	Lesson19_Scatterplots.ipynb
+Lesson27_BarCharts_Histograms.ipynb	Lesson20_BarCharts_Histograms.ipynb
