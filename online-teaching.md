@@ -43,3 +43,10 @@ Here are some considerations for creating online classroom climates where studen
 - AAC&U on [safeguarding quality, equity, and inclusion as learning moves online](https://www.aacu.org/events/webinar-safeguarding-quality-equity-and-inclusion-learning-moves-online).
 - CORA on [responding to racial bias and microaggressions in online environments](https://www.youtube.com/watch?v=9cEWQJ32nqU).
 
+## Considerations for videoconferencing
+
+Here are some very thoughtful pieces about videoconferencing and why it is unreasonable to require students (or anyone) to turn on their cameras for online classes (if they even have one), particularly if they were not expecting to participate in an online class. 
+
+- [COVID-19 and videoclassism: implicit bias, videojudgement, and why I'm terrified to have you look over my shoulder.](https://www.linkedin.com/pulse/covid-19-videoclassism-implicit-bias-videojudgment-why-jackson/)
+- [A reminder of who is hurt by insisting that students share images of their personal lives.](https://anygoodthing.com/2020/04/06/a-reminder-of-who-is-hurt-by-insisting-that-students-share-images-of-their-personal-lives/?fbclid=IwAR2-sHnxLKFv95025AbjyHhFQ2jSoTj4vHNLx49_4kXYAK3oQTq9pLp5_Bw)
+
