@@ -38,12 +38,13 @@ in a data science capstone project of their choosing.
     - [Live coding tips](live-coding-tips.md)
     - [Facilitator best practices](facilitator-best-practices.md)
 - For learners
+    - [How to get started](get-started.md)
     - [Troubleshooting checklist](troubleshooting-checklist.md)
     - [Functions, Methods, Packages](functions_methods_packages.md)
     - [Resources for learners](learning-resources.md)
-    - [How to get started](get-started.md)
 - For everyone
     - [Debugging the Gender Gap](debugging-the-gender-gap.md)
+    - [Our Anti-Racism Statement](anti-racism.md)
 
 
 ## Get Involved
