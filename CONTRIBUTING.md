@@ -19,7 +19,7 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 - [Guidelines](#guidelines)
 	- [Commit messages](#commit-messages)
 	- [File naming scheme](#file-naming-scheme)
-	- [File paths](#dataset-file-paths)
+	- [File paths](#file-paths)
 	- [Cell output](#cell-output)
 	- [JupyterLab](#jupyterlab)
 	- [Accessibility](#lesson-guidelines-for-accessibility)
@@ -191,7 +191,7 @@ Our directory structure is as follows:
 ```
 Be sure the filenames follow this pattern!
 
-### Dataset File paths
+### File paths
 
 If you need to read in a dataset, Pandas can read https links to raw github files. Example:
 
@@ -203,7 +203,14 @@ tips = pd.read_csv(path + 'SampleData/tips.csv')
 Don't use local filepaths (e.g. `pd.read_csv('../SampleData/tips.csv')`), because we live-code in Google Colab.
 
 If you come across legacy references to mounting Google Drive, please remove them.
-We previously used this Colab feature, but have decided to use links to raw github files instead (see above).
+We previously used this Colab feature, but have decided to use links to raw github files instead.
+
+The same applies to including images in markdown cells, e.g.:
+
+```
+Here's a diagram:
+![](https://raw.githubusercontent.com/GWC-DCMB/SummerExperience/master/Figures/IfElifElseDiagram.png)
+```
 
 ### Cell output
 
