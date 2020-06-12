@@ -22,7 +22,8 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 	- [File paths](#file-paths)
 	- [Cell output](#cell-output)
 	- [JupyterLab](#jupyterlab)
-	- [Accessibility](#lesson-guidelines-for-accessibility)
+	- [Inclusive Language](#inclusive-language)
+	- [Accessibility](#accessibility)
 
 <!-- /TOC -->
 ## Setup
@@ -258,16 +259,36 @@ However, when you open a Jupyter notebook with Google Colab, it squishes all of 
 This makes it difficult to compare & merge Jupyter notebooks written in JupyterLab vs Colab via `git diff`.
 To keep our notebooks easy to compare & merge, we strongly prefer JupyterLab for editing.
 
-## Accesibility
+## Inclusive & Accesibile Lessons
+
+The Software Carpentry Instructor Training course is an excellent resource overall. The section and [Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html) is especially important for us to make sure our lessons our inclusive and accessible to all learners. Take a look through their guidelines, and find our additions and specific guidelines below.
+
+### Inclusive Language
+
+Avoid using language that implies that students should already know a concept. 
+Words & phrases to avoid include:
+
+- obviously
+- simply
+- just
+- you already know this, but...
+- of course
+
+If you find yourself writing one of these while preparing a lesson or about to say it while teaching, stop yourself and omit the phrase.
+They almost never add meaning to the material, but can have the negative effect of demotivating learners.
+
+### Accessibility 
+
 This is a set of guidelines for keeping lessons accessible, particularly for students with ADHD, but these pointers should help for students with various neurodivergences or learning disabilities. If you have questions, concerns, or further comments about accessibility editing, contact [Katie](mailto:furmank@umich.edu).
 
-### Things to keep in mind
+**Things to keep in mind:**
+
 1. **Working Memory** - this is one common impairment that affects people with multiple mental illnesses/learning disabilities (ADHD, Autism, Dyslexia, etc). 'working memory' refers to the ability to remember and use relevant information while in the process of completing a task. For example, when working on a multi-step math problem, it is your working memory which allows you to remember what happened in the previous step while you complete the current one. Thus, **the easier we can make it for students to remember earlier portions of an assignment while completing later ones, the more accessible the assignments will be.**
 
 1. **Vision** - A lot of people with learning disabilities also have pretty bad vision, and need strong glasses or contacts. Often this makes it hard to simply see the words on a page, and to distinguish them from one another. To an outsider, this can seem like an inability to read. But **if we can make important words and sections seem more visually/spatially distinct, neurodiverse students may be better able to comprehend them.** This can be done by using bullet points, or selectively bolding/coloring certain important words.
 
 These two things are mainly what I (Katie) had in mind when developing the following ways to make lessons more accessible.
 
-### Lesson Guidelines for Accessibility
+### Detailed Guidelines for Accessibility
 
 See the guidelines [here](writing-accessible-lessons.md) to follow while writing & editing lessons.
