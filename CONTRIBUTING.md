@@ -22,8 +22,7 @@ If you have questions or run into problems at any point, contact [Kelly](mailto:
 	- [File paths](#file-paths)
 	- [Cell output](#cell-output)
 	- [JupyterLab](#jupyterlab)
-	- [Inclusive Language](#inclusive-language)
-	- [Accessibility](#accessibility)
+	- [Inclusive & Accessible Lessons](#inclusive--accesibile-lessons)
 
 <!-- /TOC -->
 ## Setup
