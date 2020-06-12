@@ -260,7 +260,7 @@ To keep our notebooks easy to compare & merge, we strongly prefer JupyterLab for
 
 ## Inclusive & Accesibile Lessons
 
-The Software Carpentry Instructor Training course is an excellent resource overall. The section and [Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html) is especially important for us to make sure our lessons our inclusive and accessible to all learners. Take a look through their guidelines, and find our additions and specific guidelines below.
+The Software Carpentry Instructor Training course is an excellent resource overall. The section on [Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html) is especially important for us to make sure our lessons our inclusive and accessible to all learners. Take a look through their guidelines, and find our additions and specific guidelines below.
 
 ### Inclusive Language
 
