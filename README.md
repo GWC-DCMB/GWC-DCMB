@@ -38,6 +38,7 @@ in a data science capstone project of their choosing.
     - [Live coding tips](live-coding-tips.md)
     - [Facilitator best practices](facilitator-best-practices.md)
     - [Resources for online teaching](online-teaching.md)
+    - [Notebook keys](keys.md)
 - For learners
     - [How to get started](get-started.md)
     - [Troubleshooting checklist](troubleshooting-checklist.md)
