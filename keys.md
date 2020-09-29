@@ -2,7 +2,7 @@
 
 |   |  Lesson Notebook | Practice Notebook |
 |---|---|---|
-| 1 | [Lesson01 Jupyter-Setup](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/_Keys/KEY_Lesson01_Jupyter-Setup.md) | [Practice01 Jupyter-Setup](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/_Keys/KEY_Practice01_Jupyter-Setup.ipynb) |
+| 1 | [no notebook] | [Practice01 Jupyter-Setup](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/_Keys/KEY_Practice01_Jupyter-Setup.ipynb) |
 | 2 | [Lesson02 HelloWorld Variables](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/_Keys/KEY_Lesson02_HelloWorld_Variables.ipynb) | [Practice02 HelloWorld Variables](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/_Keys/KEY_Practice02_HelloWorld_Variables.ipynb) |
 | 3 | [Lesson03 Variables Types](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/_Keys/KEY_Lesson03_Variables_Types.ipynb) | [Practice03 Variables Types](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/_Keys/KEY_Practice03_Variables_Types.ipynb) |
 | 4 | [Lesson04 Lists Intro](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/_Keys/KEY_Lesson04_Lists_Intro.ipynb) | [Practice04 Lists Intro](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/_Keys/KEY_Practice04_Lists_Intro.ipynb) |
