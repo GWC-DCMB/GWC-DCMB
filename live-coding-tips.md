@@ -1,6 +1,6 @@
 # Live coding tips
 
-*Content modified from Software Carpentry (SWC) Instructor Training. If you want to learn more about teaching people how to code, please visit the [SWC Instructor Training website](https://carpentries.github.io/instructor-training/). If you want to learn more about SWC or become involved with SWC at UM, you can find more information [here](https://umswc.github.io/).*
+*Content modified from Software Carpentry (SWC) Instructor Training. If you want to learn more about teaching people how to code, please visit the [SWC Instructor Training website](https://carpentries.github.io/instructor-training/). If you want to learn more about SWC or become involved with SWC at UM, you can find more information [here](https://umcarpentries.github.io/).*
 
 ## Goal of this training
 Go over the basics of how to teach people how to code through live coding.
