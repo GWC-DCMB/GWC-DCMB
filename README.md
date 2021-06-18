@@ -19,6 +19,7 @@ language. Participants learn core coding concepts and implement their new skills
 in a data science capstone project of their choosing.
 
 ## Resources
+
 | Repository | Description | Language(s) |
 |---|---|---|
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | Jupyter Notebook, HTML, Python |
@@ -64,3 +65,28 @@ for announcements on our next recruiting cycle.
 ## License
 
 All materials hosted here are subject to the licenses described in the [LICENSE file](LICENSE.md).
+
+## Citation
+
+We have written a manuscript describing our curriculum and the development
+process. It is now available on bioRxiv. If you would like to cite our work,
+please use:
+
+```
+Duda et al., (2021). Teaching Python for Data Science: Collaborative development of a modular & interactive curriculum. bioRxiv. https://doi.org/10.1101/2021.06.17.448726
+```
+
+A bibtex entry for LaTeX users:
+
+```
+@article{duda_teaching_2021,
+	title = {Teaching Python for Data Science: Collaborative development of a modular \&amp; interactive curriculum},
+	author = {Duda, Marlena and Sovacool, Kelly L. and Farzaneh, Negar and Nguyen, Vy Kim and Haynes, Sarah E. and Falk, Hayley and Furman, Katherine L. and Walker, Logan A. and Diao, Rucheng and Oneka, Morgan and Drotos, Audrey C. and Woloshin, Alana and Dotson, Gabrielle A. and Kriebel, April and Meng, Lucy and Thiede, Stephanie N. and Lapp, Zena and Wolford, Brooke N.},
+	year = {2021},
+	publisher = {Cold Spring Harbor Laboratory},
+    journal = {bioRxiv},
+	elocation-id = {2021.06.17.448726},
+	url = {https://www.biorxiv.org/content/10.1101/2021.06.17.448726v1},
+	doi = {10.1101/2021.06.17.448726}
+}
+```
