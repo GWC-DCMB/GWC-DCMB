@@ -1,173 +1,58 @@
-# How to Contribute
+# Contributing to the curriculum
 
-We use the [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) workflow to make our lives
-easier. This means all new lessons, practices, and edits should be made in separate branches -- not the `master` branch.
-View the issues in our repositories to see what we need.
-If an issue isn't assigned to anyone, we would welcome your contribution!
+Parts of this document were adapted from the [Tidyverse](https://tidyverse.tidyverse.org/CONTRIBUTING.html)
+and the [Software Carpentry](https://github.com/swcarpentry/python-novice-inflammation/blob/gh-pages/CONTRIBUTING.md)
+contributing guides.
 
-If you have questions or run into problems at any point, contact [Kelly](mailto:sovacool@umich.edu).
+## Code of Conduct
 
-## Table of Contents
+Please note that this curriculum is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing, you agree to abide by its terms and
+you agree that we may redistribute your work under [our license](../LICENSE.md).
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+## How to Contribute
 
-- [Table of Contents](#table-of-contents)
-- [Setup](#setup)
-- [Using Git](#using-git)
-	- [Creating or editing lessons & practices](#creating-or-editing-lessons-practices)
-	- [Reviewing lessons & practices](#reviewing-lessons-practices)
-- [Guidelines](#guidelines)
-	- [Commit messages](#commit-messages)
-	- [File naming scheme](#file-naming-scheme)
-	- [File paths](#file-paths)
-	- [Cell output](#cell-output)
-	- [JupyterLab](#jupyterlab)
-	- [Inclusive & Accessible Lessons](#inclusive--accesibile-lessons)
+You can fix typos, spelling mistakes, or grammatical errors directly using the GitHub web interface.
+If you want to make a bigger change, it's a good idea to first file an issue and make sure someone from the team agrees that it’s needed.
+If you’ve found a bug, please file an issue that illustrates the bug with a minimal reproducible example.
 
-<!-- /TOC -->
-## Setup
+### Pull request process
 
-If you haven't already:
+You may first want to look at
+[How to Contribute to an Open Source Project on GitHub](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github).
+We follow [GitHub flow](https://guides.github.com/introduction/flow/) to make
+changes to the curriculum.
+To contribute:
 
-1. Configure git on your local machine.
+1.  Fork this repository to your GitHub profile. You may wish to clone your
+fork to make changes locally, or you can use the GitHub web interface if you
+are not planning to edit any of the Jupyter notebooks.
+1.  Within your version of the forked repository, move to the `main` branch and
+create a new branch for each significant change being made.
+1.  Navigate to the file(s) you wish to change within the new branches and make
+revisions as required. Take a look at the [Style Guidelines](#style-guidelines)
+below to ensure your changes meet our standards.
+1.  If you made changes to a Jupyter notebook, make sure that
+the notebook renders and runs correctly in [JupyterLab](https://jupyter.org/).
+1.  Commit all changed files within the appropriate branches.
+1.  Create individual pull requests from each of your changed branches
+to the `main` branch within the originating repository.
+1.  If you receive feedback, make changes using your issue-specific branches of
+the forked repository and the pull requests will update automatically.
+1.  Repeat as needed until all feedback has been addressed.
 
-    Use the same email that is associated with your GitHub account.
-    ```
-    git config --global user.name "Firstname Lastname"
-    git config --global user.email "you@email.com"
-    ```
+When starting work, please make sure your clone of the originating `main` branch
+is up-to-date before creating your own revision-specific branch(es) from there.
+Additionally, please only work from your newly-created branch(es) and *not*
+your clone of the originating `main` branch.
 
-1. Clone the repo you want to contribute to.
-    ```
-    git clone repo-url
-    ```
-
-    e.g. if you want to contribute to our `ClubCurriculum`,
-    the `repo-url` would be `https://github.com/GWC-DCMB/ClubCurriculum.git`.
-
-If you need a refresher, Software Carpentry has a lesson on
-[Version Control with Git](http://swcarpentry.github.io/git-novice/).
-
-### Dependencies
-
-We teach with [Google Colab](https://colab.research.google.com), which has all of our dependencies already installed.
-However, we recommend editing the notebooks by running [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
-on your local machine ([why?](#jupyterlab)).
-The minimum required dependencies are listed in the [environment file](environment.yml).
-You're welcome to use your package manager of choice (Kelly's recommendation: [conda](https://docs.conda.io/en/latest/miniconda.html)).
-
-## Using Git
-### Creating or editing lessons & practices
-
-1. Move to the repo directory on your computer (cloned above during [git setup](#setup).)
-
-    ```
-    cd repo-name
-    ```
-
-1. Create a new branch for your feature.
-
-    Give it a short, descriptive name.
-    ```
-    git checkout -b new-branch-name
-    ```
-    Alternatively, if you don't have write access to the repository, you'll need to
-    [fork the repo](https://help.github.com/en/articles/fork-a-repo) instead and work on your fork.
-
-1. Make your edits.
-    ```
-    jupyter lab notebook-name.ipynb
-    ```
-    Be sure to follow our [guidelines](#guidelines) as you go.
-    If you're creating a new lesson or practice, it's easiest to edit the lesson key,
-    then copy the key to the lesson folder and remove any blanks that you want to be filled in during the live coding demo.
-    Don't forget to run all cells in Key files, clear output from regular Lessons & Practices ([instructions](#cell-output)),
-    and save the notebooks from within JupyterLab.
-
-1. Commit & push your changes.
-    ```
-    git add notebook-name.ipynb
-    git commit -m "Edit lesson XX"
-    ```
-    See commit message guidelines [here](#commit-messages).
-
-    If you're pushing your branch for the first time, you'll have to set the upstream:
-    ```
-    git push --set-upstream origin new-branch-name
-    ```
-
-    Otherwise, just push like usual:
-    ```
-    git push origin new-branch-name
-    ```
-
-    If you forget the branch name:
-    - Run `git status` to see the branch you currently have checked out (among other things).
-    - You can list existing branches with `git branch --list`.
-
-
-1. Open a pull request [[example](https://github.com/GWC-DCMB/ClubCurriculum/pull/21)].
-    1. If you made multiple commits over a period of time, chances are high that your branch is behind the master branch. Follow these instructions to bring your local branch up to date with master:
-        ```
-        git checkout master
-        git pull
-        git checkout new-branch-name
-        git merge master
-        git push
-        ```
-    1. Open the repo page in your web browser (e.g. [the ClubCurriculum repo](https://github.com/GWC-DCMB/ClubCurriculum)).
-    1. If you want to see what the modifications look like before opening a pull request, you can go to the document you
-    modified and change the branch to the left of the file name.
-    1. Go to the pull requests tab and click `new pull request`.
-    1. Select your branch name to compare to master. If you forked the repo instead of making a branch, select "compare across
-    forks" instead.
-    1. Create the pull request.
-    1. Assign a reviewer.
-    The reviewer will then take a look at the changes, make any edits as needed, and merge the branch into master.
-
-### Reviewing lessons & practices
-
-1. Make sure your local copy of the repo is up-to-date.
-    ```
-    git pull
-    ```
-1. Checkout the branch corresponding to the pull request you're reviewing.
-    ```
-    git checkout branch-name
-    ```
-1. Review and edit the contents.
-    ```
-    jupyter lab notebook-name.ipynb
-    ```
-    Check that everything follows our [guidelines](#guidelines) and make any corrections needed.
-
-1. Commit & push changes if needed.
-    ```
-    git add notebook-name.ipynb
-    git commit -m "Revise lesson XX"
-    git push
-    ```
-
-1. Merge the pull request when you're happy with it.
-
-    Either press the `merge` button on Github in your web browser,
-    or do it from the command line:
-    ```
-    git checkout master
-    git merge branch-name master
-    ```
-    In the merge commit message, reference any [issues](https://github.com/GWC-DCMB/ClubCurriculum/issues)
-    (our To-Do list) that the pull request resolves so the issue is closed automatically.
-    For example, the [commit](https://github.com/GWC-DCMB/ClubCurriculum/commit/e871017fc77fe2023f2488d3c18ae4baaee5b03f)
-    message I wrote when adding this file was `Add contributing instructions (Resolves #11)`.
-
-    If no more work will be done on that branch, you can delete it on Github to reduce clutter.
-
-## Guidelines
+## Style Guidelines
 
 ### Commit messages
 
-We recommend this [style guide](https://chris.beams.io/posts/git-commit/) for writing good commit messages.
+We recommend this [style guide](https://chris.beams.io/posts/git-commit/) for
+writing good commit messages.
 The highlights:
 - Capitalize the first word of the message.
 - The first word should be a verb in the imperative tense.
@@ -181,9 +66,9 @@ Our directory structure is as follows:
 ```
 .
 ├── Lessons
-│   ├── Lesson99_Topic-Description.ipynb
-│   └── _Keys
-│       └── KEY_Lesson99_Topic-Description.ipynb
+│   ├── Lesson99_Topic-Description.ipynb
+│   └── _Keys
+│       └── KEY_Lesson99_Topic-Description.ipynb
 └── Practices
     ├── Practice99_Topic-Description.ipynb
     └── _Keys
@@ -196,20 +81,17 @@ Be sure the filenames follow this pattern!
 If you need to read in a dataset, Pandas can read https links to raw github files. Example:
 
 ```
-path = 'https://raw.githubusercontent.com/GWC-DCMB/SummerExperience/master/'
+path = 'https://raw.githubusercontent.com/GWC-DCMB/curriculum-notebooks/main/'
 tips = pd.read_csv(path + 'SampleData/tips.csv')
 ```
 
 Don't use local filepaths (e.g. `pd.read_csv('../SampleData/tips.csv')`), because we live-code in Google Colab.
 
-If you come across legacy references to mounting Google Drive, please remove them.
-We previously used this Colab feature, but have decided to use links to raw github files instead.
-
 The same applies to including images in markdown cells, e.g.:
 
 ```
 Here's a diagram:
-![](https://raw.githubusercontent.com/GWC-DCMB/SummerExperience/master/Figures/IfElifElseDiagram.png)
+![](https://raw.githubusercontent.com/GWC-DCMB/curriculum-notebooks/main/Figures/IfElifElseDiagram.png)
 ```
 
 ### Cell output
