@@ -1,5 +1,7 @@
 ## Notebook Keys
 
+View the keys rendered as HTML: < https://gwc-dcmb.github.io/curriculum-notebooks/>
+
 |   |  Lesson Notebook | Practice Notebook |
 |---|---|---|
 | 1 | [no notebook] | [Practice01 Jupyter-Setup](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/_Keys/KEY_Practice01_Jupyter-Setup.ipynb) |
