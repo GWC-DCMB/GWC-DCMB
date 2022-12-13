@@ -1,6 +1,6 @@
 ## Notebook Keys
 
-View the keys rendered as HTML: < https://gwc-dcmb.github.io/curriculum-notebooks/>
+View the keys rendered as HTML: <https://gwc-dcmb.github.io/curriculum-notebooks/>
 
 |   |  Lesson Notebook | Practice Notebook |
 |---|---|---|
